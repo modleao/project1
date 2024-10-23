@@ -31,7 +31,7 @@
   6. Verify Installation
   ---
 ## User Guide
-  ### to ''Create a Project'' open jira and Log In to Jira then Access the Projects Menu then Select "Create Project" and Choose a Project Template, Configure Project Details after that Set Up Project Settings then you can Start Adding Issues.
+  ### to ''*Create a Project*'' open jira and Log In to Jira then Access the Projects Menu then Select "Create Project" and Choose a Project Template, Configure Project Details after that Set Up Project Settings then you can Start Adding Issues.
 :white_check_mark:
  - [ ] Log In to Jira 
 - [ ] Access the Projects Menu 
@@ -52,7 +52,7 @@
 |  Integration with Tools |  Connects with other tools (like Slack, Confluence, etc.) for better communication.     |
 |  Dashboards & Reports   |    Customizable dashboards to visualize project progress and team performance.   |         
 
-### to ''Reportin jira'' Log In to Jira then Navigate to Your Project Access, the Reports Section and Choose a Report Type then Configure Report Parameters then you can Generate the Report
+### to ''*Reportin jira*'' Log In to Jira then Navigate to Your Project Access, the Reports Section and Choose a Report Type then Configure Report Parameters then you can Generate the Report
 Here’s an example of how a generated report in JSON format might look, showing basic issue statistics:
 
 ```  
@@ -103,7 +103,7 @@ Missing Permissions
 : Users may find they cannot access certain projects or features due to insufficient permissions.
 ---
 ## Advanced Usage
-#### How to Use Scripting within Jira
+#### How to Use *Scripting within* Jira
 
 1.  Install ScriptRunner Plugin
 2. Navigate to the ScriptRunner Interface
@@ -154,7 +154,7 @@ Issue Tracking [^1]
   
 [^1]:  For more information on Jira and its features, visit the official Atlassian Jira.com page.
 
--   Agile Project Management.[^2]  
+Agile Project Management.[^2]  
   ---
 [^2]: Learn more about agile methodologies and how Jira supports them in this Agile at Scaleguide.com.
 
