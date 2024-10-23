@@ -154,8 +154,8 @@ Issue Tracking [^1]
   
 [^1]:  For more information on Jira and its features, visit the official Atlassian Jira.com page.
 
-Agile Project Management.[^2]  
-  ---
+Agile Project Management [^2]
+
 [^2]: Learn more about agile methodologies and how Jira supports them in this Agile at Scaleguide.com.
 
 
